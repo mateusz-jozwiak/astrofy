@@ -1,10 +1,9 @@
 ---
-title: "Programowania"
+title: "Rozwazania"
 description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-pubDate: "Sep 12 2022"
+pubDate: "Sep 10 2022"
 heroImage: "/post_img.webp"
-badge: "Liz pipke"
-tags: ["rust","tokio"]
+tags: ["tokio"]
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
