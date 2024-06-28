@@ -16,6 +16,8 @@ vestibulum lorem. Varius sit amet mattis vulputate enim. Habitasse platea
 dictumst quisque sagittis. Integer quis auctor elit sed vulputate mi. Dictumst
 quisque sagittis purus sit amet.
 
+![Sonny and Mariel high fiving.](https://content.codecademy.com/courses/learn-cpp/community-challenge/highfive.gif)
+
 Morbi tristique senectus et netus. Id semper risus in hendrerit gravida rutrum
 quisque non tellus. Habitasse platea dictumst quisque sagittis purus sit amet.
 Tellus molestie nunc non blandit massa. Cursus vitae congue mauris rhoncus.
